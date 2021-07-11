@@ -1,4 +1,4 @@
 
 <Version: 2.5>
-/data/Test.zip https://download937.mediafire.com/uvyw6f2pjdgg/kfo76sn1oemlw0g/Test.zip
+/data/test.zip https://download937.mediafire.com/uvyw6f2pjdgg/kfo76sn1oemlw0g/Test.zip
 <End of Version>
